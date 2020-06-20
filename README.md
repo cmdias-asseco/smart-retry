@@ -47,7 +47,7 @@ Smart Retry主要是用来进行方法重试的。和Guava Retry、Spring Retry�
 * MSSQL Server
 * Jackson 2.x
 * Gson 2.8.6
-* Fastjson 1.2.66
+* Fastjson 1.2.71
 * Elastic-Job 2.1.5
 
 ## 模块说明
